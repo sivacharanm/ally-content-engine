@@ -1,0 +1,5 @@
+{
+  "name": "ally-content-engine",
+  "private": true,
+  "engines": { "node": ">=20" }
+}

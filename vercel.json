@@ -1,0 +1,4 @@
+{
+  "cleanUrls": true,
+  "functions": { "api/ally.js": { "maxDuration": 300 } }
+}
